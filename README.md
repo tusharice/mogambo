@@ -1,1 +1,3 @@
-# mogambo
+# Mogambo
+
+- Maven Multi module project template
